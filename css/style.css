@@ -1,0 +1,36 @@
+body {
+  background-color: blue;
+  color: aqua;
+}
+
+h1 {
+  font-style: italic;
+  font-weight: bold;
+  color: aqua;
+  background-color: black;
+  font-size: 300%;
+  text-align: center;
+  border-style: solid;
+  height: 100px;
+}
+ul {
+  color: yellow;
+  background-color: blue;
+  text-align: center;
+  font-style: normal;
+  font-size: 150%;
+  font-weight: bolder;
+  font-family: sans-serif;
+  border-style: solid;
+}
+
+p {
+  color: orange;
+  background-color: purple;
+  text-align: left;
+  font-size: 130%;
+  font-style: normal;
+  font-weight: normal;
+  font-family: inherit;
+  border-style: solid;
+}
